@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+## Vanessa R. Marigza - BSCPE 221
+# *Bridgerton* (Favorite Netflix Series)
